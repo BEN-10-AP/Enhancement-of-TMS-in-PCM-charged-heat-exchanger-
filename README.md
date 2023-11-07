@@ -1,4 +1,4 @@
-# Enhancement-of-TMS-in-PCM-charged-heat-exchanger-
+# Enhancement of Thermal Management System in Phase Change Material (PCM) charged heat exchanger-
 ### - Objective of the project:
 </br>
 To estimate the performance capability of heat exchanger, charged with PCM (gallium) material in the shell region, with and without fin.
