@@ -3,11 +3,21 @@
 </br>
 To estimate the performance capability of heat exchanger, charged with PCM (gallium) material in the shell region, with and without fin.
 </br>
+ <h2>Boundary Conditions:</h2>
 The outer pipe surface(Aluminium) is maintained at a constant temperature of 50 C. Initially PCM is at 27 C. MP of (PCM) Gallium is 29.2C .
 </br>
 </br>
 </br>
-Project Results:
+<h2>Setup details:</h2>
+- ✨ Transient
+- ✨ Viscous(Laminar) model (movement of gallium in melting region is laminar)
+- ✨ Gravity (-9.81m/s^2) in y direction
+- ✨ Boussinesq approximation for density
+- ✨ PCM material is gallium
+- ✨ Melting point of gallium = 29.2 C
+
+
+<h2>Project Results:</h2>
 Without fins 100% melting time = 719s
 </br>
 With hexagonal fins 100% melting time = 481s
